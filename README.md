@@ -1,163 +1,104 @@
-# 🩸 Doe Sangue
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,40:ff003c,70:ff4d6d,100:000000&text=Doe%20Sangue&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Blood%20Donation%20Awareness%20Platform&descAlignY=58"/>
+
+</div>
 
 <div align="center">
 
-Projeto web desenvolvido para incentivar a doação de sangue através de uma interface moderna, acessível e responsiva.
-
-🔗 **Deploy:** https://lorenscript.github.io/doe-sangue/
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=2800&pause=1000&color=FF4D6D&center=true&vCenter=true&width=800&lines=Modern+Web+Experience;Blood+Donation+Awareness;Responsive+and+Interactive+Design;Built+with+HTML+CSS+%26+JavaScript"/>
 
 </div>
 
 ---
 
-# 📖 Sobre o projeto
+# ✦ About The Project
 
-O **Doe Sangue** é uma aplicação web criada com o objetivo de conscientizar pessoas sobre a importância da doação de sangue e facilitar o acesso a informações relacionadas ao tema.
+```txt
+🩸 Doe Sangue is a modern web platform focused on
+raising awareness about blood donation.
 
-O projeto foi desenvolvido com foco em:
-
-* experiência do usuário;
-* design moderno;
-* responsividade;
-* acessibilidade;
-* organização visual das informações.
-
-Além do propósito social, o projeto também foi utilizado para aprimorar habilidades em desenvolvimento front-end, estruturação de layouts e criação de interfaces web.
+The project was developed with a responsive,
+interactive and accessible interface, aiming to
+encourage more people to become blood donors.
+```
 
 ---
 
-# ✨ Funcionalidades
+# ✦ Features
 
-✔️ Interface moderna e intuitiva
-✔️ Layout responsivo para diferentes dispositivos
-✔️ Navegação simples e organizada
-✔️ Estrutura visual acessível
-✔️ Informações sobre doação de sangue
-✔️ Design focado na experiência do usuário
+<div align="center">
 
----
-
-# 🛠️ Tecnologias utilizadas
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
+| Feature | Description |
+|---|---|
+| 🎨 Modern UI | Clean and aesthetic interface |
+| 📱 Responsive Design | Works on desktop and mobile |
+| ⚡ Interactive Elements | Smooth user experience |
+| ❤️ Awareness Focus | Encourages blood donation |
 
 </div>
 
-## Front-end
+---
 
-* HTML5
-* CSS3
-* JavaScript
+# ✦ Technologies
 
-## Ferramentas
+<div align="center">
 
-* Git
-* GitHub
-* VS Code
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github&theme=dark"/>
+
+</div>
 
 ---
 
-# 📂 Estrutura do projeto
+# ✦ Project Structure
 
-```bash
-📦 doe-sangue
+```txt
+📂 doe-sangue
  ┣ 📂 assets
- ┃ ┣ 📂 images
- ┃ ┗ 📂 icons
  ┣ 📂 css
- ┃ ┗ 📜 style.css
  ┣ 📂 js
- ┃ ┗ 📜 script.js
- ┣ 📜 index.html
- ┗ 📜 README.md
+ ┣ 📄 index.html
+ ┗ 📄 README.md
 ```
 
 ---
 
-# 🚀 Como executar o projeto
-
-## 1️⃣ Clone o repositório
-
-```bash
-git clone https://github.com/lorenscript/doe-sangue.git
-```
-
----
-
-## 2️⃣ Acesse a pasta do projeto
-
-```bash
-cd doe-sangue
-```
-
----
-
-## 3️⃣ Execute o projeto
-
-Abra o arquivo `index.html` no navegador
-ou utilize a extensão **Live Server** no VS Code.
-
----
-
-
+# ✦ Live Project
 
 <div align="center">
 
-<img width="900px" src="https://github.com/user-attachments/assets/example"/>
+<a href="https://lorenscript.github.io/doe-sangue/">
+<img src="https://img.shields.io/badge/View%20Website-ff003c?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 🎯 Objetivos do projeto
+# ✦ Development Focus
 
-Este projeto foi desenvolvido com o objetivo de:
-
-* praticar desenvolvimento web;
-* melhorar habilidades em front-end;
-* criar interfaces modernas e responsivas;
-* trabalhar organização de projetos;
-* utilizar tecnologia para conscientização social.
-
----
-
-# 📚 Aprendizados
-
-Durante o desenvolvimento deste projeto, foram trabalhados conceitos como:
-
-* estruturação semântica com HTML;
-* estilização moderna com CSS;
-* responsividade;
-* manipulação de elementos com JavaScript;
-* organização de arquivos;
-* versionamento com Git e GitHub.
+```txt
+✔ Responsive Web Design
+✔ Modern Front-End Development
+✔ UI/UX Principles
+✔ Interactive Interfaces
+✔ Clean Code Structure
+```
 
 ---
 
-# 👩‍💻 Desenvolvedora
+# ✦ Author
 
-<div align="left">
+<div align="center">
 
-**Lorena**
-Estudante de Ciência da Computação
-Apaixonada por tecnologia, desenvolvimento e interfaces criativas.
-
-🔗 GitHub: https://github.com/lorenscript
+<img src="https://img.shields.io/badge/Lorena%20Gontijo-000000?style=for-the-badge&logo=github&logoColor=FF4D6D"/>
 
 </div>
 
 ---
 
-# 📄 Licença
-
-Este projeto está sob a licença MIT.
-
----
-
 <div align="center">
 
-### ❤️ Doe sangue. Salve vidas.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,40:ff003c,70:ff4d6d,100:000000"/>
 
 </div>
